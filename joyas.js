@@ -5,7 +5,7 @@ const router = express.Router();
 const pool = new Pool({
   host: 'localhost',
   user: 'postgres',
-  password: '2b9sA2..',
+  password: 'TU CONTRASEÑA',
   database: 'joyas',
   allowExitOnIdle: true
 });
